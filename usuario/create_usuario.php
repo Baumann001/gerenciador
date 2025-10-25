@@ -62,7 +62,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     </form>
 
-    <a href="read_usuario.php">Ver registros.</a>
+    
            
         
     </main>
