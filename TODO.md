@@ -1,0 +1,3 @@
+- [x] Add isset checks for $_POST['nome'] and $_POST['email'] in create_usuario.php
+- [x] Add email existence check before inserting into database
+- [x] Update success/error messages
